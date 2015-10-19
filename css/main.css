@@ -1,0 +1,21 @@
+body {
+	font-family : Helvetica;
+	background-color : #b0c4de;	
+}
+
+.local {
+	background : #E1F5A9;
+}
+.dev {
+	background : #CEECF5;
+}
+.stage {
+	background : #FAAC58;
+}
+.prod {
+	background : #8A0808;
+}
+
+#doscript {
+	display: none;
+}
