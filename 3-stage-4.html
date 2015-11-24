@@ -3,13 +3,21 @@
   <title>STAGING</title>
   </head>
   <body style="background:#FAAC58">
-    <h1>Fire Tag on STAGING</h1>
-    <h3><a href="https://control.stage.signal.co/sites/ninja007" target="bto">BrightTag ONE</a></h3>
-    <script src="//btstatic.stage.signal.co/tag.js">
-      { site: "ninja007", host: "tagserve.stage.signal.co" }
+    <h1>Fire Tag on STAGING (siteId: KI82CIM)</h1>
+
+    <script type="text/javascript">
+      (function () {
+        var tagjs = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        tagjs.async = true;
+        tagjs.src = "//btstatic.stage.thebrighttag.com/tag.js#site=KI82CIM&host=tagserve.stage.thebrighttag.com";
+        // tagjs.text = "{'referrer':'samurai008'}";
+        s.parentNode.insertBefore(tagjs, s);
+      }());
     </script>
-    <noscript>
-      <iframe src="//tagserve.stage.signal.co/iframe?c=ninja007" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-    </noscript>
+<script src="//btstatic.stage.thebrighttag.com/tag.js">
+  { site: "KI82CIM", host: "tagserve.stage.thebrighttag.com", mode: "v2" }
+</script>
+
   </body>
 </html>
