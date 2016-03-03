@@ -1,18 +1,24 @@
 <html>
   <head>
-  <title>Vagrant XBVxzbE CHB288</title>
+    <title>Vagrant XBVxzbE CHB288</title>
+    <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
   </head>
   <body style="background:#E1F5A9">
     <h1>XBVxzbE CHB288 (powered by github)</h1>
+    <input id="siteId" type="text" name="siteId" />
+    <input id="fire" type="button" name="Fire" />
+
     <script type="text/javascript">
-      (function () {
+      $("#fire").click(fireTag);
+      function fireTag() {
+        var siteId = $("#siteId").val();
         var tagjs = document.createElement("script");
         var s = document.getElementsByTagName("script")[0];
         tagjs.async = true;
-        tagjs.src = "//btstatic.vg1.thebrighttag.com/tag.js#site=XBVxzbE&host=tagserve.vg1.thebrighttag.com";
+        tagjs.src = "http://btstatic.vg1.thebrighttag.com/tag.js#site=" + siteId + "&host=http://tagserve.vg1.thebrighttag.com";
         tagjs.text = "{'referrer':'1-vg1-2.html'}";
         s.parentNode.insertBefore(tagjs, s);
-      }());
+      };
     </script>
   </body>
 </html>
