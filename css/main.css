@@ -11,6 +11,9 @@ body {
 }
 .stage {
 	background : #FAAC58;
+  font-family: 'UniqueRegular';
+  font-weight: normal;
+  font-style: normal;
 }
 .prod {
 	background : #8A0808;
