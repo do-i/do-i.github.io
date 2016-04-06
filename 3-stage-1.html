@@ -2,11 +2,20 @@
   <head>
     <title>Stage</title>
     <link rel="stylesheet" href="css/main.css">
-    <script src="//btstatic.stage.thebrighttag.com/tag.js">
-      { site: "ninja007", host: "tagserve.stage.thebrighttag.com", mode: "v2" }
-    </script>
   </head>
   <body class="stage">
-    <H1>Tag Fired</H1>
+    <H1>/dev/null</H1>
+    <script type="text/javascript">
+      (function () {
+        var tagjs = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        tagjs.async = true;
+        tagjs.src = "//btstatic.stage.thebrighttag.com/tag.js#site=devnull&host=tagserve.stage.thebrighttag.com";
+        s.parentNode.insertBefore(tagjs, s);
+      }());
+    </script>
+    <noscript>
+      <iframe src="//tagserve.stage.thebrighttag.com/iframe?c=devnull" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    </noscript>
   </body>
 </html>
