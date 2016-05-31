@@ -5,9 +5,15 @@ body {
 
 .local {
 	background : #E1F5A9;
+  font-family: 'UniqueRegular';
+  font-weight: normal;
+  font-style: normal;
 }
 .dev {
 	background : #CEECF5;
+  font-family: 'UniqueRegular';
+  font-weight: normal;
+  font-style: normal;
 }
 .stage {
 	background : #FAAC58;
@@ -17,6 +23,9 @@ body {
 }
 .prod {
 	background : #8A0808;
+  font-family: 'UniqueRegular';
+  font-weight: normal;
+  font-style: normal;
 }
 label {
   background: #BEBABE;
