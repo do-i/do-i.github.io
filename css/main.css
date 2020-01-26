@@ -1,36 +1,27 @@
-body {
-	font-family : Helvetica;
-	background-color : #b0c4de;
+table {
+  border-collapse: collapse;
+	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-weight: 200;
 }
 
-.local {
-	background : #E1F5A9;
-  font-family: 'UniqueRegular';
-  font-weight: normal;
-  font-style: normal;
-}
-.dev {
-	background : #CEECF5;
-  font-family: 'UniqueRegular';
-  font-weight: normal;
-  font-style: normal;
-}
-.stage {
-	background : #FAAC58;
-  font-family: 'UniqueRegular';
-  font-weight: normal;
-  font-style: normal;
-}
-.prod {
-	background : #8A0808;
-  font-family: 'UniqueRegular';
-  font-weight: normal;
-  font-style: normal;
-}
-label {
-  background: #BEBABE;
+td, th {
+  border: 1px solid orange;
 }
 
-#doscript {
-	display: none;
+td.bookmark {
+  background-color: #f8e0da;
+}
+
+td.bookmark:hover {
+  background-color: #92cff0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
 }

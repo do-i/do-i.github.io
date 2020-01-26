@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Seeking Alpha",
+    "webUrl": "https://seekingalpha.com/",
+    "iconUrl": "https://static.seekingalpha.com/assets/favicon-d8a68714f8b18f200bbdab463556289870b8fc0c008d85fda68e41ebfb724635.ico",
+    "group": "Investment"
+  },
+  {
+    "title": "Stock Analysis-On",
+    "webUrl": "https://www.stock-analysis-on.net/",
+    "iconUrl": "https://cdn.stock-analysis-on.net/images/logo112x112.png",
+    "group": "Investment"
+  },
+  {
+    "title": "Blogspot",
+    "webUrl": "http://ubuntunurd.blogspot.com/",
+    "iconUrl": "http://ubuntunurd.blogspot.com/favicon.ico",
+    "group": "Blog"
+  }
+]
