@@ -1,12 +1,6 @@
 
 function loadBookmarks() {
-  // $.ajax({
-  //   "async": false,
-  //   "global": false,
-  //   "url": "data/bookmarks.json",
-  //   "dataType": "json",
-  //   "success": populateBookmarks
-  // });
+  // CORS error occurs if file:// protocol is used to load the json file.
   $.getJSON("data/bookmarks.json", populateBookmarks);
 }
 

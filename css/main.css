@@ -1,3 +1,9 @@
+body {
+  /* Image found on https://wallpapersafari.com/w/DAGRZ1 */
+  background-image: url("../img/pastel-bg.jpg");
+  background-color: #e4ebad;
+ }
+
 table {
   border-collapse: collapse;
 	font-family: 'Open Sans', sans-serif;
