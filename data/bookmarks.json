@@ -1,5 +1,11 @@
 [
   {
+    "title": "URL Decoder/Encoder",
+    "webUrl": "https://www.urlencoder.org",
+    "iconUrl": "https://cdn.urlencoder.org/assets/images/url_32.webp",
+    "group": "Tool"
+  },
+  {
     "title": "Seeking Alpha",
     "webUrl": "https://seekingalpha.com/",
     "iconUrl": "https://static.seekingalpha.com/assets/favicon-d8a68714f8b18f200bbdab463556289870b8fc0c008d85fda68e41ebfb724635.ico",
