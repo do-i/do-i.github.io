@@ -1,9 +1,13 @@
+
 function loadBookmarks() {
-  $.ajax({
-    url: "data/bookmarks.json",
-    dataType: "jsonp",
-    success: populateBookmarks
-  });
+  // $.ajax({
+  //   "async": false,
+  //   "global": false,
+  //   "url": "data/bookmarks.json",
+  //   "dataType": "json",
+  //   "success": populateBookmarks
+  // });
+  $.getJSON("data/bookmarks.json", populateBookmarks);
 }
 
 function populateBookmarks(bookmarks) {
