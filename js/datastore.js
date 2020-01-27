@@ -2,10 +2,12 @@
 function loadBookmarks() {
   $.ajaxSetup({ cache: false });
   // CORS error occurs if file:// protocol is used to load the json file.
-  $.getJSON("data/bookmarks.json", populateBookmarks);
+  const now = Date.now().getMilliseconds();
+  $.getJSON("data/bookmarks.json?h=" + now, populateBookmarks);
 }
 
 function populateBookmarks(bookmarks) {
+  // Refactor table creation like http://jsfiddle.net/n7cyE/93/
   bookmarks.forEach(function (bookmark) {
     const title = bookmark["title"];
     const webUrl = bookmark["webUrl"];
