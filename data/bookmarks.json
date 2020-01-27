@@ -48,6 +48,12 @@
     "group": "tool"
   },
   {
+    "title": "Distro Watch",
+    "webUrl": "https://distrowatch.com",
+    "iconUrl": "https://distrowatch.com/favicon.ico",
+    "group": "linux"
+  },
+  {
     "title": "Seeking Alpha",
     "webUrl": "https://seekingalpha.com/",
     "iconUrl": "https://static.seekingalpha.com/assets/favicon-d8a68714f8b18f200bbdab463556289870b8fc0c008d85fda68e41ebfb724635.ico",
