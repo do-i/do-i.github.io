@@ -12,6 +12,12 @@
     "group": "game"
   },
   {
+    "title": "Scala",
+    "webUrl": "https://docs.scala-lang.org/",
+    "iconUrl": "https://docs.scala-lang.org/resources/favicon.ico",
+    "group": "code"
+  },
+  {
     "title": "Google Finance",
     "webUrl": "https://www.google.com/finance",
     "iconUrl": "https://ssl.gstatic.com/shortcuts/android/home/v1/svg/finance_g_badged.svg",
