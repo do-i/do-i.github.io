@@ -1,5 +1,6 @@
 
 function loadBookmarks() {
+  $.ajaxSetup({ cache: false });
   // CORS error occurs if file:// protocol is used to load the json file.
   $.getJSON("data/bookmarks.json", populateBookmarks);
 }
