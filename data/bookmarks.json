@@ -1,26 +1,56 @@
 [
   {
+    "title": "Google Finance",
+    "webUrl": "https://www.google.com/finance",
+    "iconUrl": "https://ssl.gstatic.com/shortcuts/android/home/v1/svg/finance_g_badged.svg",
+    "group": "finance"
+  },
+  {
+    "title": "CircleCI",
+    "webUrl": "https://circleci.com",
+    "iconUrl": "https://d3r49iyjzglexf.cloudfront.net/favicon-066b37ff00f0f968b903c13ae88b5573b62665aea8fbe91bb61c55dfa9446523.ico",
+    "group": "cicd"
+  },
+  {
+    "title": "Github",
+    "webUrl": "https://github.com/do-i",
+    "iconUrl": "https://github.githubassets.com/favicon.ico",
+    "group": "code"
+  },
+  {
+    "title": "New Relic",
+    "webUrl": "https://newrelic.com/",
+    "iconUrl": "https://static.netify.ai/logos/n/e/w/new-relic/favicon.png",
+    "group": "logs"
+  },
+  {
+    "title": "Messages Android",
+    "webUrl": "https://messages.android.com",
+    "iconUrl": "https://ssl.gstatic.com/images/branding/product/1x/messages_96dp.png",
+    "group": "communication"
+  },
+  {
     "title": "URL Decoder/Encoder",
     "webUrl": "https://www.urlencoder.org",
     "iconUrl": "https://cdn.urlencoder.org/assets/images/url_32.webp",
-    "group": "Tool"
+    "group": "tool"
   },
   {
     "title": "Seeking Alpha",
     "webUrl": "https://seekingalpha.com/",
     "iconUrl": "https://static.seekingalpha.com/assets/favicon-d8a68714f8b18f200bbdab463556289870b8fc0c008d85fda68e41ebfb724635.ico",
-    "group": "Investment"
+    "group": "investment"
   },
   {
     "title": "Stock Analysis-On",
     "webUrl": "https://www.stock-analysis-on.net/",
     "iconUrl": "https://cdn.stock-analysis-on.net/images/logo112x112.png",
-    "group": "Investment"
+    "group": "investment"
   },
   {
     "title": "Blogspot",
     "webUrl": "http://ubuntunurd.blogspot.com/",
     "iconUrl": "http://ubuntunurd.blogspot.com/favicon.ico",
-    "group": "Blog"
+    "group": "blog"
   }
 ]
