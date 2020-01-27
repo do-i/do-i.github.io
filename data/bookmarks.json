@@ -1,5 +1,17 @@
 [
   {
+    "title": "Dominion",
+    "webUrl": "https://dominion.games",
+    "iconUrl": "https://dominion.games/favicon.ico",
+    "group": "game"
+  },
+  {
+    "title": "Shogi",
+    "webUrl": "https://japanesechess.org",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Shougi_no_koma_gyokushou.svg/220px-Shougi_no_koma_gyokushou.svg.png",
+    "group": "game"
+  },
+  {
     "title": "Google Finance",
     "webUrl": "https://www.google.com/finance",
     "iconUrl": "https://ssl.gstatic.com/shortcuts/android/home/v1/svg/finance_g_badged.svg",
