@@ -61,7 +61,7 @@
   },
   {
     "title": "Seeking Alpha",
-    "webUrl": "https://seekingalpha.com/",
+    "webUrl": "https://seekingalpha.com",
     "iconUrl": "https://static.seekingalpha.com/assets/favicon-d8a68714f8b18f200bbdab463556289870b8fc0c008d85fda68e41ebfb724635.ico",
     "group": "investment"
   },
@@ -71,6 +71,18 @@
     "iconUrl": "https://cdn.stock-analysis-on.net/images/logo112x112.png",
     "group": "investment"
   },
+  {
+    "title": "Auth0",
+    "webUrl": "https://auth0.com",
+    "iconUrl": "https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/favicon.png",
+    "group": "security"
+  },
+  {
+    "title": "Authy",
+    "webUrl": "https://authy.com",
+    "iconUrl": "https://authy.com/wp-content/themes/authy/assets/images/icons/chrome-touch-icon-196x196.png",
+    "group": "security"
+  },  
   {
     "title": "Blogspot",
     "webUrl": "http://ubuntunurd.blogspot.com/",
