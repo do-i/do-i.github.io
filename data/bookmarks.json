@@ -50,7 +50,7 @@
   {
     "title": "URL Decoder/Encoder",
     "webUrl": "https://www.urlencoder.org",
-    "iconUrl": "https://cdn.urlencoder.org/assets/images/url_32.webp",
+    "iconUrl": "https://cdn.urlencoder.org/assets/images/url-180.webp",
     "group": "tool"
   },
   {
@@ -82,7 +82,7 @@
     "webUrl": "https://authy.com",
     "iconUrl": "https://authy.com/wp-content/themes/authy/assets/images/icons/chrome-touch-icon-196x196.png",
     "group": "security"
-  },  
+  },
   {
     "title": "Blogspot",
     "webUrl": "http://ubuntunurd.blogspot.com/",
