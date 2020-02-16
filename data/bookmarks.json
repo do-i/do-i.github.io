@@ -90,6 +90,12 @@
     "group": "security"
   },
   {
+    "title": "The Register",
+    "webUrl": "https://www.theregister.co.uk",
+    "icon": "theregister.ico",
+    "group": "security"
+  },
+  {
     "title": "Blogspot",
     "webUrl": "http://ubuntunurd.blogspot.com/",
     "icon": "blogspot.ico",
