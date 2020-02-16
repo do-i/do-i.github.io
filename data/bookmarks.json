@@ -26,21 +26,28 @@
   {
     "title": "CircleCI",
     "webUrl": "https://circleci.com",
-    "iconUrl": "https://d3r49iyjzglexf.cloudfront.net/favicon-066b37ff00f0f968b903c13ae88b5573b62665aea8fbe91bb61c55dfa9446523.ico",
+    "iconUrl": "https://circleci.com/favicon.ico",
     "group": "cicd"
   },
   {
     "title": "Github",
     "webUrl": "https://github.com/do-i",
-    "iconUrl": "https://github.githubassets.com/favicon.ico",
+    "iconUrl": "https://github.com/favicon.ico",
     "group": "code"
   },
   {
     "title": "New Relic",
     "webUrl": "https://newrelic.com/",
-    "iconUrl": "https://static.netify.ai/logos/n/e/w/new-relic/favicon.png",
+    "iconUrl": "https://newrelic.com/favicon.ico",
     "group": "logs"
   },
+  {
+    "title": "SonarCloud",
+    "webUrl": "https://sonarcloud.io",
+    "iconUrl": "https://sonarcloud.io/favicon.ico",
+    "group": "logs"
+  },
+
   {
     "title": "Messages Android",
     "webUrl": "https://messages.android.com",
