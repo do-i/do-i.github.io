@@ -19,7 +19,7 @@ function populateBookmarks(bookmarks) {
     const title = bookmark["title"];
     const webUrl = bookmark["webUrl"];
     // const iconUrl = bookmark["iconUrl"];
-    const iconUrl = bookmark["webUrl"] + 'favicon.ico';
+    const iconUrl = bookmark["webUrl"] + '/favicon.ico';
     const imgTag = `<img width="16" height="16" hspace="8" src="${iconUrl}"/>`;
     const divTag = `<div>${imgTag}${title}</div>`;
     const linkTag = `<a href="${webUrl}">${divTag}</a>`;
