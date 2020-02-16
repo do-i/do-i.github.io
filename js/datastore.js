@@ -18,7 +18,7 @@ function populateBookmarks(bookmarks) {
   bookmarks.forEach(function (bookmark) {
     const title = bookmark["title"];
     const webUrl = bookmark["webUrl"];
-    const iconUrl = 'img/favicon' + bookmark["icon"];
+    const iconUrl = 'img/favicon/' + bookmark["icon"];
     const imgTag = `<img width="16" height="16" hspace="8" src="${iconUrl}"/>`;
     const divTag = `<div>${imgTag}${title}</div>`;
     const linkTag = `<a href="${webUrl}">${divTag}</a>`;
