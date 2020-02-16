@@ -2,98 +2,97 @@
   {
     "title": "Dominion",
     "webUrl": "https://dominion.games",
-    "iconUrl": "https://dominion.games/favicon.ico",
+    "icon": "dominion.ico",
     "group": "game"
   },
   {
     "title": "Shogi",
     "webUrl": "https://japanesechess.org",
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Shougi_no_koma_gyokushou.svg/220px-Shougi_no_koma_gyokushou.svg.png",
+    "icon": "shogi.png",
     "group": "game"
   },
   {
     "title": "Scala",
     "webUrl": "https://docs.scala-lang.org/",
-    "iconUrl": "https://docs.scala-lang.org/resources/favicon.ico",
+    "icon": "scala.ico",
     "group": "code"
   },
   {
     "title": "Google Finance",
     "webUrl": "https://www.google.com/finance",
-    "iconUrl": "https://ssl.gstatic.com/shortcuts/android/home/v1/svg/finance_g_badged.svg",
+    "icon": "gfinance.svg",
     "group": "finance"
   },
   {
     "title": "CircleCI",
     "webUrl": "https://circleci.com",
-    "iconUrl": "https://circleci.com/favicon.ico",
+    "icon": "circleci.ico",
     "group": "cicd"
   },
   {
     "title": "Github",
     "webUrl": "https://github.com/do-i",
-    "iconUrl": "https://github.com/favicon.ico",
+    "icon": "github.ico",
     "group": "code"
   },
   {
     "title": "New Relic",
     "webUrl": "https://newrelic.com/",
-    "iconUrl": "https://newrelic.com/favicon.ico",
+    "icon": "newrelic.ico",
     "group": "logs"
   },
   {
     "title": "SonarCloud",
     "webUrl": "https://sonarcloud.io",
-    "iconUrl": "https://sonarcloud.io/favicon.ico",
+    "icon": "sonarcloud.ico",
     "group": "logs"
   },
-
   {
     "title": "Messages Android",
     "webUrl": "https://messages.android.com",
-    "iconUrl": "https://ssl.gstatic.com/images/branding/product/1x/messages_96dp.png",
+    "icon": "messages.png",
     "group": "communication"
   },
   {
     "title": "URL Decoder/Encoder",
     "webUrl": "https://www.urlencoder.org",
-    "iconUrl": "https://cdn.urlencoder.org/assets/images/url-180.webp",
+    "icon": "urlencoder.webp",
     "group": "tool"
   },
   {
     "title": "Distro Watch",
     "webUrl": "https://distrowatch.com",
-    "iconUrl": "https://distrowatch.com/favicon.ico",
+    "icon": "distrowatch.ico",
     "group": "linux"
   },
   {
     "title": "Seeking Alpha",
     "webUrl": "https://seekingalpha.com",
-    "iconUrl": "https://static.seekingalpha.com/assets/favicon-d8a68714f8b18f200bbdab463556289870b8fc0c008d85fda68e41ebfb724635.ico",
+    "icon": "seekingalpha.ico",
     "group": "investment"
   },
   {
     "title": "Stock Analysis-On",
     "webUrl": "https://www.stock-analysis-on.net/",
-    "iconUrl": "https://cdn.stock-analysis-on.net/images/logo112x112.png",
+    "icon": "stockanalysis.png",
     "group": "investment"
   },
   {
     "title": "Auth0",
     "webUrl": "https://auth0.com",
-    "iconUrl": "https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/favicon.png",
+    "icon": "auth0.png",
     "group": "security"
   },
   {
     "title": "Authy",
     "webUrl": "https://authy.com",
-    "iconUrl": "https://authy.com/wp-content/themes/authy/assets/images/icons/chrome-touch-icon-196x196.png",
+    "icon": "authy.png",
     "group": "security"
   },
   {
     "title": "Blogspot",
     "webUrl": "http://ubuntunurd.blogspot.com/",
-    "iconUrl": "http://ubuntunurd.blogspot.com/favicon.ico",
+    "icon": "blogspot",
     "group": "blog"
   }
 ]
