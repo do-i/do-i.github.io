@@ -102,10 +102,22 @@
     "group": "security"
   },
   {
+    "title": "FileMail",
+    "webUrl": "https://www.filemail.com",
+    "icon": "filemail.ico",
+    "group": "file"
+  },
+  {
     "title": "Temp File",
     "webUrl": "https://file.io",
     "icon": "tempfile.svg",
-    "group": "security"
+    "group": "file"
+  },
+  {
+    "title": "Go File",
+    "webUrl": "https://gofile.io",
+    "icon": "gofile.png",
+    "group": "file"
   },
   {
     "title": "Blogspot",
