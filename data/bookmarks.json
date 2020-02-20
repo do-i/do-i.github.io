@@ -96,6 +96,18 @@
     "group": "security"
   },
   {
+    "title": "Temp Pass",
+    "webUrl": "https://temporary.pw",
+    "icon": "temppass.png",
+    "group": "security"
+  },
+  {
+    "title": "Temp File",
+    "webUrl": "https://file.io",
+    "icon": "tempfile.svg",
+    "group": "security"
+  },
+  {
     "title": "Blogspot",
     "webUrl": "http://ubuntunurd.blogspot.com/",
     "icon": "blogspot.ico",

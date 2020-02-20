@@ -21,7 +21,7 @@ function populateBookmarks(bookmarks) {
     const iconUrl = 'img/favicon/' + bookmark["icon"];
     const imgTag = `<img width="16" height="16" hspace="8" src="${iconUrl}"/>`;
     const divTag = `<div>${imgTag}${title}</div>`;
-    const linkTag = `<a href="${webUrl}">${divTag}</a>`;
+    const linkTag = `<a href="${webUrl}" target="${title}">${divTag}</a>`;
     const tdTag = `<td class="bookmark">${linkTag}</td>`;
     const trTag = `<tr>${tdTag}</tr>`;
     $("#bookmark_table").append(trTag);
