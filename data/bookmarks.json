@@ -66,6 +66,12 @@
     "group": "linux"
   },
   {
+    "title": "Investopedia",
+    "webUrl": "https://www.investopedia.com",
+    "icon": "investopedia.png",
+    "group": "investment"
+  },
+  {
     "title": "Seeking Alpha",
     "webUrl": "https://seekingalpha.com",
     "icon": "seekingalpha.ico",
