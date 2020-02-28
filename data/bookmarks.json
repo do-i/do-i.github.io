@@ -6,6 +6,12 @@
     "group": "game"
   },
   {
+    "title": "Darksky",
+    "webUrl": "https://darksky.net",
+    "icon": "darksky.ico",
+    "group": "weather"
+  },
+  {
     "title": "Shogi",
     "webUrl": "https://japanesechess.org",
     "icon": "shogi.png",
@@ -46,6 +52,12 @@
     "webUrl": "https://sonarcloud.io",
     "icon": "sonarcloud.ico",
     "group": "logs"
+  },
+  {
+    "title": "ZenDesk",
+    "webUrl": "https://modaoperandi.zendesk.com",
+    "icon": "zendesk.ico",
+    "group": "tickets"
   },
   {
     "title": "Messages Android",
