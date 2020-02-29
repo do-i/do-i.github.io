@@ -66,6 +66,12 @@
     "group": "testing"
   },
   {
+    "title": "Jira",
+    "webUrl": "https://modaoperandi.atlassian.net/browse",
+    "icon": "jira.ico",
+    "group": "jira"
+  },
+  {
     "title": "Messages Android",
     "webUrl": "https://messages.android.com",
     "icon": "messages.png",
