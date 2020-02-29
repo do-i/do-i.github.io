@@ -55,9 +55,15 @@
   },
   {
     "title": "ZenDesk",
-    "webUrl": "https://modaoperandi.zendesk.com",
+    "webUrl": "https://modaoperandi.zendesk.com/agent/filters/360111053052",
     "icon": "zendesk.ico",
     "group": "tickets"
+  },
+  {
+    "title": "TestRail",
+    "webUrl": "https://moda.testrail.net",
+    "icon": "testrail.ico",
+    "group": "testing"
   },
   {
     "title": "Messages Android",
