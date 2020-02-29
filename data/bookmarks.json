@@ -65,6 +65,12 @@
     "icon": "testrail.ico",
     "group": "testing"
   },
+    {
+    "title": "PagerDuty",
+    "webUrl": "https://moda-operandi.pagerduty.com",
+    "icon": "pagerduty.ico",
+    "group": "page"
+  },
   {
     "title": "Jira",
     "webUrl": "https://modaoperandi.atlassian.net/browse",
