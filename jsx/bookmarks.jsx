@@ -11,7 +11,7 @@ class Bookmarks extends React.Component {
   }
 
   componentDidMount() {
-    fetch('./data/bookmarks.json?h=' + Date.now())
+    fetch('./data/bookmarks.json?h=70886f4d1d67e90265c1ca5ccc5370e3')
       .then(response => response.json())
       .then(
         (bookmarks) => {
