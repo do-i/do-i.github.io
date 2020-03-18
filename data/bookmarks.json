@@ -7,7 +7,7 @@
   },
   {
     "title": "Darksky",
-    "webUrl": "https://darksky.net",
+    "webUrl": "https://darksky.net/forecast/41.882,-87.628/us12/en",
     "icon": "darksky.ico",
     "group": "weather"
   },
