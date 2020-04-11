@@ -1,3 +1,8 @@
+@font-face {
+  src: url(fonts/JetBrainsMono-Regular.ttf);
+  font-family: jet;
+}
+
 body {
   /* Image found on https://wallpapersafari.com/w/DAGRZ1 */
   background-image: url("../img/pastel-bg.jpg");
@@ -30,4 +35,10 @@ a {
 
 a:hover {
   color: blue;
+}
+
+.bookmark {
+  font-size: 14px;
+  font-family: jet;
+  line-height: 20px;
 }
