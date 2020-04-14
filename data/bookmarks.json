@@ -95,6 +95,13 @@
     "icon": "distrowatch.ico",
     "group": "linux"
   },
+
+  {
+    "title": "Diagram",
+    "webUrl": "https://sequencediagram.org",
+    "icon": "sequencediagram.ico",
+    "group": "visual"
+  },
   {
     "title": "Investopedia",
     "webUrl": "https://www.investopedia.com",
