@@ -6,6 +6,12 @@
     "group": "game"
   },
   {
+    "title": "Shogi 81Doji",
+    "webUrl": "https://system.81dojo.com",
+    "icon": "81dojo.gif",
+    "group": "game"
+  },
+  {
     "title": "Darksky",
     "webUrl": "https://darksky.net/forecast/41.882,-87.628/us12/en",
     "icon": "darksky.ico",
