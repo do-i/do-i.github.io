@@ -37,8 +37,62 @@ a:hover {
   color: blue;
 }
 
+textarea {
+  background-color: rgb(255, 255, 255);
+  top: 10%;
+  width: 100%;
+  height: 400px;
+  border-radius: 1px;
+  border: 1px solid rgb(100, 92, 104);
+}
+
 .bookmark {
   font-size: 14px;
   font-family: jet;
   line-height: 20px;
+}
+
+.modal {
+  position: 0,0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(53, 28, 28, 0.25);
+}
+
+.modal_content {
+  background-color: rgb(240, 225, 241);
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 70%;
+  padding: 30px;
+  border-radius: 2px;
+  border: 2px solid rgb(117, 91, 129);
+}
+
+.btn_wrapper {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button.large{
+  padding: 12px 30px;
+  text-transform: uppercase;
+}
+
+.button.large:active{
+  top: 1px;
+}
+
+.button.green{
+  background-color: #92cff0;
+  border-color: #92cff1;
+}
+
+.button.green:hover{
+  background-color: #7fb4d1;
 }
