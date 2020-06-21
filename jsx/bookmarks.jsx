@@ -1,4 +1,3 @@
-
 class Modal extends React.Component {
   handleClick = () => {
     this.props.toggle();
