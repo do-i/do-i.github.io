@@ -6,10 +6,16 @@
     "group": "game"
   },
   {
-    "title": "Shogi 81Doji",
-    "webUrl": "https://system.81dojo.com",
-    "icon": "81dojo.gif",
+    "title": "Shogi",
+    "webUrl": "https://japanesechess.org",
+    "icon": "shogi.png",
     "group": "game"
+  },
+  {
+    "title": "Kotlin",
+    "webUrl": "https://kotlinlang.org",
+    "icon": "kotlin.png",
+    "group": "tech"
   },
   {
     "title": "Darksky",
@@ -18,70 +24,16 @@
     "group": "weather"
   },
   {
-    "title": "Shogi",
-    "webUrl": "https://japanesechess.org",
-    "icon": "shogi.png",
-    "group": "game"
-  },
-  {
-    "title": "Scala",
-    "webUrl": "https://docs.scala-lang.org/",
-    "icon": "scala.ico",
-    "group": "code"
-  },
-  {
-    "title": "Google Finance",
-    "webUrl": "https://www.google.com/finance",
-    "icon": "gfinance.svg",
-    "group": "finance"
-  },
-  {
-    "title": "CircleCI",
-    "webUrl": "https://circleci.com",
-    "icon": "circleci.ico",
-    "group": "cicd"
-  },
-  {
     "title": "Github",
     "webUrl": "https://github.com/do-i",
     "icon": "github.ico",
-    "group": "code"
-  },
-  {
-    "title": "New Relic",
-    "webUrl": "https://newrelic.com/",
-    "icon": "newrelic.ico",
-    "group": "logs"
-  },
-  {
-    "title": "SonarCloud",
-    "webUrl": "https://sonarcloud.io",
-    "icon": "sonarcloud.ico",
-    "group": "logs"
-  },
-  {
-    "title": "ZenDesk",
-    "webUrl": "https://modaoperandi.zendesk.com/agent/filters/360111053052",
-    "icon": "zendesk.ico",
-    "group": "tickets"
-  },
-  {
-    "title": "TestRail",
-    "webUrl": "https://moda.testrail.net",
-    "icon": "testrail.ico",
-    "group": "testing"
-  },
-    {
-    "title": "PagerDuty",
-    "webUrl": "https://moda-operandi.pagerduty.com",
-    "icon": "pagerduty.ico",
-    "group": "page"
+    "group": "tech"
   },
   {
     "title": "Jira",
-    "webUrl": "https://modaoperandi.atlassian.net/browse",
+    "webUrl": "https://logicgate.atlassian.net/browse",
     "icon": "jira.ico",
-    "group": "jira"
+    "group": "tech"
   },
   {
     "title": "Messages Android",
@@ -90,23 +42,10 @@
     "group": "communication"
   },
   {
-    "title": "URL Decoder/Encoder",
-    "webUrl": "https://www.urlencoder.org",
-    "icon": "urlencoder.webp",
-    "group": "tool"
-  },
-  {
     "title": "Distro Watch",
     "webUrl": "https://distrowatch.com",
     "icon": "distrowatch.ico",
     "group": "linux"
-  },
-
-  {
-    "title": "Diagram",
-    "webUrl": "https://sequencediagram.org",
-    "icon": "sequencediagram.ico",
-    "group": "visual"
   },
   {
     "title": "Investopedia",
@@ -121,27 +60,33 @@
     "group": "investment"
   },
   {
+    "title": "Google Finance",
+    "webUrl": "https://www.google.com/finance",
+    "icon": "gfinance.svg",
+    "group": "investment"
+  },
+  {
+    "title": "The Register",
+    "webUrl": "https://www.theregister.co.uk",
+    "icon": "theregister.ico",
+    "group": "security"
+  },
+  {
+    "title": "Blogspot",
+    "webUrl": "http://ubuntunurd.blogspot.com/",
+    "icon": "blogspot.ico",
+    "group": "blog"
+  },
+  {
     "title": "Stock Analysis-On",
     "webUrl": "https://www.stock-analysis-on.net/",
     "icon": "stockanalysis.png",
     "group": "investment"
   },
   {
-    "title": "Auth0",
-    "webUrl": "https://auth0.com",
-    "icon": "auth0.png",
-    "group": "security"
-  },
-  {
     "title": "Authy",
     "webUrl": "https://authy.com",
     "icon": "authy.png",
-    "group": "security"
-  },
-  {
-    "title": "The Register",
-    "webUrl": "https://www.theregister.co.uk",
-    "icon": "theregister.ico",
     "group": "security"
   },
   {
@@ -169,9 +114,45 @@
     "group": "file"
   },
   {
-    "title": "Blogspot",
-    "webUrl": "http://ubuntunurd.blogspot.com/",
-    "icon": "blogspot.ico",
-    "group": "blog"
+    "title": "Diagram",
+    "webUrl": "https://sequencediagram.org",
+    "icon": "sequencediagram.ico",
+    "group": "tool"
+  },
+  {
+    "title": "URL Decoder/Encoder",
+    "webUrl": "https://www.urlencoder.org",
+    "icon": "urlencoder.webp",
+    "group": "tool"
+  },
+  {
+    "title": "Scala",
+    "webUrl": "https://docs.scala-lang.org/",
+    "icon": "scala.ico",
+    "group": "tech"
+  },
+  {
+    "title": "CircleCI",
+    "webUrl": "https://circleci.com",
+    "icon": "circleci.ico",
+    "group": "tech"
+  },
+  {
+    "title": "New Relic",
+    "webUrl": "https://newrelic.com/",
+    "icon": "newrelic.ico",
+    "group": "tech"
+  },
+  {
+    "title": "SonarCloud",
+    "webUrl": "https://sonarcloud.io",
+    "icon": "sonarcloud.ico",
+    "group": "logs"
+  },
+  {
+    "title": "Auth0",
+    "webUrl": "https://auth0.com",
+    "icon": "auth0.png",
+    "group": "security"
   }
 ]
