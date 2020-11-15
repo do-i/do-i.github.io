@@ -6,6 +6,12 @@
     "group": "game"
   },
   {
+    "title": "Narou",
+    "webUrl": "https://syosetu.com/",
+    "icon": "narou.ico",
+    "group": "book"
+  },
+  {
     "title": "Shogi",
     "webUrl": "https://japanesechess.org",
     "icon": "shogi.png",
