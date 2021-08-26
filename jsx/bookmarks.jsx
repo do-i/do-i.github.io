@@ -60,7 +60,7 @@ class Bookmarks extends React.Component {
   }
 
   componentDidMount() {
-    fetch('./data/bookmarks.json?h=4b6ecebfa9fbdfc441dc8c7d9cceedee')
+    fetch('./data/bookmarks.json?h=c35bd14deef8eed8f10926dd552e3064')
       .then(response => response.json())
       .then(
         (bookmarks) => {
@@ -95,7 +95,7 @@ class Bookmarks extends React.Component {
                 <a href={item.webUrl} target={item.title}>
                   <div><img width="16" height="16" hspace="8" src={iconUrl}/>{item.title}</div></a>
               </td><td><button
-              onClick={this.createRemovalFunction(item.title)}>-</button></td></tr>
+              onClick={this.createRemovalFunction(item.title)}>🗑️</button></td></tr>
             )})}
           </table>
           <div>

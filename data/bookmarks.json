@@ -1,5 +1,11 @@
 [
   {
+    "title": "Catan",
+    "webUrl": "https://catanuniverse.com/en/game",
+    "icon": "catan.png",
+    "group": "game"
+  },
+  {
     "title": "Dominion",
     "webUrl": "https://dominion.games",
     "icon": "dominion.ico",
