@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/main.css">
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    </head>
+    <body>
+        <div id="bookmarks" />
+            <table id="bookmark_table">
+                <tr v-for="bookmark in bookmarks">
+                    <td class="bookmark" >
+                        <img width="16" height="16" hspace="8" :src="'img/favicon/' + bookmark.icon"/>
+                        <a v-bind:href="bookmark.webUrl" v-bind:target="bookmark.title">{{ bookmark.title }}</a>
+                    </td>
+                    <td>
+                        <button v-on:click="showInfo(bookmark)">🛈</button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <script src="js/index.js"></script>
+    </body>
+</html>
+
